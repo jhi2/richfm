@@ -1,0 +1,31 @@
+# Core Flask and extensions
+Flask>=2.3.0,<4.0.0
+Flask-SQLAlchemy>=3.0.0,<4.0.0
+Flask-CORS>=4.0.0
+
+# Database
+SQLAlchemy>=2.0.0,<3.0.0
+
+# Validation
+pydantic>=2.0.0,<3.0.0
+pydantic-settings>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+PyYAML>=6.0.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Logging
+structlog>=23.0.0
+
+# ZIP handling (built into Python stdlib)
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+pytest-mock>=3.12.0
+
+# Type checking
+mypy>=1.0.0

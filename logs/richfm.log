@@ -1,0 +1,888 @@
+2026-04-10 13:53:37,604 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.3:5000
+2026-04-10 13:53:37,604 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-10 13:53:37,604 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 13:53:37,984 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 13:53:37,991 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 13:54:18,298 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:54:18] "GET / HTTP/1.1" 200 -
+2026-04-10 13:54:18,314 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:54:18] "[33mGET /src/css/libs-main.css HTTP/1.1[0m" 404 -
+2026-04-10 13:54:18,315 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:54:18] "[33mGET /src/css/filemanager.min.css HTTP/1.1[0m" 404 -
+2026-04-10 13:54:18,315 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:54:18] "[33mGET /src/js/libs-main.js HTTP/1.1[0m" 404 -
+2026-04-10 13:54:18,316 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:54:18] "[33mGET /src/js/filemanager.min.js HTTP/1.1[0m" 404 -
+2026-04-10 13:54:18,316 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:54:18] "[33mGET /config/filemanager.init.js HTTP/1.1[0m" 404 -
+2026-04-10 13:54:18,331 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:54:18] "GET /images/spinner.gif HTTP/1.1" 200 -
+2026-04-10 13:54:18,406 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:54:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-10 13:56:02,440 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.3:5000
+2026-04-10 13:56:02,440 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-10 13:56:02,440 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 13:56:02,799 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 13:56:02,801 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 13:56:08,459 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:56:08] "[35m[1mPOST /filemanager/session HTTP/1.1[0m" 500 -
+2026-04-10 13:56:23,380 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:56:23] "POST /filemanager/session HTTP/1.1" 200 -
+2026-04-10 13:56:46,352 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:56:46] "GET /?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 13:56:46,383 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:56:46] "[33mGET /src/css/libs-main.css HTTP/1.1[0m" 404 -
+2026-04-10 13:56:46,383 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:56:46] "[33mGET /src/css/filemanager.min.css HTTP/1.1[0m" 404 -
+2026-04-10 13:56:46,384 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:56:46] "[33mGET /src/js/libs-main.js HTTP/1.1[0m" 404 -
+2026-04-10 13:56:46,384 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:56:46] "[33mGET /src/js/filemanager.min.js HTTP/1.1[0m" 404 -
+2026-04-10 13:56:46,385 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:56:46] "[33mGET /config/filemanager.init.js HTTP/1.1[0m" 404 -
+2026-04-10 13:56:46,396 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:56:46] "[36mGET /images/spinner.gif HTTP/1.1[0m" 304 -
+2026-04-10 13:57:24,201 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/ui.py', reloading
+2026-04-10 13:57:24,280 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 13:57:24,682 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 13:57:24,684 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 13:59:10,554 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.3:5000
+2026-04-10 13:59:10,554 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-10 13:59:10,554 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 13:59:10,920 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 13:59:10,923 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 13:59:12,310 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 13:59:12,345 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/src/css/filemanager.min.css HTTP/1.1" 200 -
+2026-04-10 13:59:12,346 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/src/css/libs-main.css HTTP/1.1" 200 -
+2026-04-10 13:59:12,346 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/config/filemanager.init.js HTTP/1.1" 200 -
+2026-04-10 13:59:12,346 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/src/js/libs-main.js HTTP/1.1" 200 -
+2026-04-10 13:59:12,347 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/src/js/filemanager.min.js HTTP/1.1" 200 -
+2026-04-10 13:59:12,347 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/spinner.gif HTTP/1.1" 200 -
+2026-04-10 13:59:12,376 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/nav/grey/level-up.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,376 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/nav/grey/home.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,377 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/nav/grey/refresh.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,386 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/application_view_icons.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,396 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/filter/grey/file-media.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,398 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/filter/grey/file-office.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,399 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/filter/grey/file-archive.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,399 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/application_view_list.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,399 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/filter/grey/file-image.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,402 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/filter/grey/file-all.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,415 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/clipboard/clipboard_paste.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,415 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/reset_dark.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,416 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/folder_add.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,416 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/clipboard/clipboard_copy.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,417 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/clipboard/clipboard_clear.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,417 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/clipboard/clipboard_cut.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,418 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/upload.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,430 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/tag.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,430 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/move.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,433 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/accept.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,434 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/download.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,434 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/parentfolder.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,434 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/fileicons/icon_folder_parent.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,436 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/bin_closed.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,448 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/edit.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,448 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/copy.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,448 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/save_dark.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,450 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/save.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,450 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/edit_dark.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,450 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/reset.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,462 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "[33mGET /fileui/config/filemanager.config.default.json?_=1775854752422 HTTP/1.1[0m" 404 -
+2026-04-10 13:59:12,466 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/config/filemanager.config.json?_=1775854752423 HTTP/1.1" 200 -
+2026-04-10 13:59:12,466 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/summary.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,466 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/search_dark.png HTTP/1.1" 200 -
+2026-04-10 13:59:12,466 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 13:59:12] "GET /fileui/images/fmlogo.png HTTP/1.1" 200 -
+2026-04-10 13:59:51,134 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/ui.py', reloading
+2026-04-10 13:59:51,247 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:01:26,039 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.3:5000
+2026-04-10 14:01:26,040 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-10 14:01:26,040 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:01:26,396 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:01:26,398 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:01:28,693 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:01:28] "GET /fileui/config/filemanager.config.json HTTP/1.1" 200 -
+2026-04-10 14:05:07,948 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.3:5000
+2026-04-10 14:05:07,948 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-10 14:05:07,949 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:05:08,328 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:05:08,330 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:05:13,606 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:05:13,641 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "GET /fileui/config/filemanager.init.js HTTP/1.1" 200 -
+2026-04-10 14:05:13,642 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/src/css/libs-main.css HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,643 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/src/css/filemanager.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,645 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/src/js/libs-main.js HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,647 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/src/js/filemanager.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,648 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/spinner.gif HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,658 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/nav/grey/level-up.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,660 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/nav/grey/home.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,660 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/nav/grey/refresh.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,662 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/application_view_icons.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,664 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/application_view_list.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,665 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/filter/grey/file-image.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,667 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/filter/grey/file-media.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,668 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/filter/grey/file-office.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,675 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/filter/grey/file-archive.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,678 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/filter/grey/file-all.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,680 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/clipboard/clipboard_copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,681 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/clipboard/clipboard_cut.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,682 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/folder_add.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,682 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/clipboard/clipboard_paste.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,684 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/reset_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,686 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/clipboard/clipboard_clear.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,692 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/upload.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,693 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/fileicons/icon_folder_parent.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,694 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/parentfolder.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,695 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/accept.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,697 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/download.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,698 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/move.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,701 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/tag.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,702 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/bin_closed.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,703 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/edit_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,710 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/save.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,715 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/save_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,716 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,716 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/reset.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,718 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/edit.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,719 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/search_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,720 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/fmlogo.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,721 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[36mGET /fileui/images/summary.png HTTP/1.1[0m" 304 -
+2026-04-10 14:05:13,729 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "GET /fileui/config/filemanager.config.json?_=1775855113700 HTTP/1.1" 200 -
+2026-04-10 14:05:13,729 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "GET /fileui/config/filemanager.config.default.json?_=1775855113699 HTTP/1.1" 200 -
+2026-04-10 14:05:13,885 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:05:13,890 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "GET /fileui/languages/en.json?_=1775855113888 HTTP/1.1" 200 -
+2026-04-10 14:05:13,900 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "GET /fileui/libs/cldrjs/cldr-numbers/en/numbers.json HTTP/1.1" 200 -
+2026-04-10 14:05:13,901 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "GET /fileui/libs/cldrjs/cldr-dates/en/ca-gregorian.json HTTP/1.1" 200 -
+2026-04-10 14:05:13,903 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "GET /fileui/libs/cldrjs/cldr-core/supplemental/timeData.json HTTP/1.1" 200 -
+2026-04-10 14:05:13,904 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "GET /fileui/libs/cldrjs/cldr-core/supplemental/weekData.json HTTP/1.1" 200 -
+2026-04-10 14:05:13,904 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "GET /fileui/libs/cldrjs/cldr-core/supplemental/likelySubtags.json HTTP/1.1" 200 -
+2026-04-10 14:05:13,915 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:13] "[31m[1mGET /filemanager/?time=1775855113912&mode=initiate&_=1775855113701 HTTP/1.1[0m" 400 -
+2026-04-10 14:05:14,357 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:05:14,385 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "[36mGET /fileui/src/css/libs-main.css HTTP/1.1[0m" 304 -
+2026-04-10 14:05:14,390 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "GET /fileui/config/filemanager.init.js HTTP/1.1" 200 -
+2026-04-10 14:05:14,391 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "[36mGET /fileui/src/css/filemanager.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:05:14,392 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "[36mGET /fileui/src/js/libs-main.js HTTP/1.1[0m" 304 -
+2026-04-10 14:05:14,395 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "[36mGET /fileui/src/js/filemanager.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:05:14,405 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "[36mGET /fileui/images/spinner.gif HTTP/1.1[0m" 304 -
+2026-04-10 14:05:14,445 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "GET /fileui/config/filemanager.config.default.json?_=1775855114430 HTTP/1.1" 200 -
+2026-04-10 14:05:14,445 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "GET /fileui/config/filemanager.config.json?_=1775855114431 HTTP/1.1" 200 -
+2026-04-10 14:05:14,482 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:05:14,487 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "GET /fileui/languages/en.json?_=1775855114484 HTTP/1.1" 200 -
+2026-04-10 14:05:14,492 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "[36mGET /fileui/libs/cldrjs/cldr-dates/en/ca-gregorian.json HTTP/1.1[0m" 304 -
+2026-04-10 14:05:14,492 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "[36mGET /fileui/libs/cldrjs/cldr-numbers/en/numbers.json HTTP/1.1[0m" 304 -
+2026-04-10 14:05:14,493 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/likelySubtags.json HTTP/1.1[0m" 304 -
+2026-04-10 14:05:14,496 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/timeData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:05:14,497 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/weekData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:05:14,507 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:14] "[31m[1mGET /filemanager/?time=1775855114505&mode=initiate&_=1775855114432 HTTP/1.1[0m" 400 -
+2026-04-10 14:05:20,082 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:05:20,112 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "[36mGET /fileui/src/css/libs-main.css HTTP/1.1[0m" 304 -
+2026-04-10 14:05:20,113 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "GET /fileui/config/filemanager.init.js HTTP/1.1" 200 -
+2026-04-10 14:05:20,114 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "[36mGET /fileui/src/css/filemanager.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:05:20,117 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "[36mGET /fileui/src/js/libs-main.js HTTP/1.1[0m" 304 -
+2026-04-10 14:05:20,118 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "[36mGET /fileui/src/js/filemanager.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:05:20,123 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "[36mGET /fileui/images/spinner.gif HTTP/1.1[0m" 304 -
+2026-04-10 14:05:20,157 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "GET /fileui/config/filemanager.config.default.json?_=1775855120149 HTTP/1.1" 200 -
+2026-04-10 14:05:20,158 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "GET /fileui/config/filemanager.config.json?_=1775855120150 HTTP/1.1" 200 -
+2026-04-10 14:05:20,167 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:05:20,196 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "GET /fileui/languages/en.json?_=1775855120193 HTTP/1.1" 200 -
+2026-04-10 14:05:20,207 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "[36mGET /fileui/libs/cldrjs/cldr-dates/en/ca-gregorian.json HTTP/1.1[0m" 304 -
+2026-04-10 14:05:20,207 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "[36mGET /fileui/libs/cldrjs/cldr-numbers/en/numbers.json HTTP/1.1[0m" 304 -
+2026-04-10 14:05:20,207 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/likelySubtags.json HTTP/1.1[0m" 304 -
+2026-04-10 14:05:20,209 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/weekData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:05:20,209 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/timeData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:05:20,218 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:05:20] "[31m[1mGET /filemanager/?time=1775855120216&mode=initiate&_=1775855120151 HTTP/1.1[0m" 400 -
+2026-04-10 14:27:37,493 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.3:5000
+2026-04-10 14:27:37,493 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-10 14:27:37,494 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:27:37,863 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:27:37,865 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:27:41,665 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:27:41,690 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "GET /fileui/config/filemanager.init.js HTTP/1.1" 200 -
+2026-04-10 14:27:41,699 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/src/css/libs-main.css HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,700 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/src/css/filemanager.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,700 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/src/js/filemanager.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,700 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/src/js/libs-main.js HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,701 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/spinner.gif HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,711 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/nav/grey/level-up.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,712 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/nav/grey/home.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,712 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/nav/grey/refresh.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,713 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/application_view_icons.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,715 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/filter/grey/file-image.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,716 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/application_view_list.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,724 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/clipboard/clipboard_copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,725 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/filter/grey/file-media.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,726 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/filter/grey/file-archive.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,726 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/reset_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,726 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/filter/grey/file-office.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,728 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/clipboard/clipboard_clear.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,729 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/filter/grey/file-all.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,731 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/clipboard/clipboard_paste.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,735 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/clipboard/clipboard_cut.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,736 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/upload.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,737 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/folder_add.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,743 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/parentfolder.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,744 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/accept.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,744 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/fileicons/icon_folder_parent.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,745 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/download.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,746 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/tag.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,747 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/move.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,754 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/save_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,755 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/bin_closed.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,756 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/edit_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,762 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/search_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,763 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/reset.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,763 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/edit.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,763 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/save.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,764 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,765 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/summary.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,772 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/images/fmlogo.png HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,792 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "GET /fileui/config/filemanager.config.json?_=1775856461774 HTTP/1.1" 200 -
+2026-04-10 14:27:41,793 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "GET /fileui/config/filemanager.config.default.json?_=1775856461773 HTTP/1.1" 200 -
+2026-04-10 14:27:41,802 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:27:41,950 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "GET /fileui/languages/en.json?_=1775856461947 HTTP/1.1" 200 -
+2026-04-10 14:27:41,957 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/libs/cldrjs/cldr-dates/en/ca-gregorian.json HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,958 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/libs/cldrjs/cldr-numbers/en/numbers.json HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,959 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/likelySubtags.json HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,960 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/timeData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,961 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/weekData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:27:41,968 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:27:41] "[31m[1mGET /filemanager/?time=1775856461966&mode=initiate&_=1775856461775 HTTP/1.1[0m" 400 -
+2026-04-10 14:28:50,235 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/ui.py', reloading
+2026-04-10 14:28:50,353 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:28:50,762 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:28:50,765 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:29:01,833 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/ui.py', reloading
+2026-04-10 14:29:01,931 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:29:02,311 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:29:02,314 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:29:19,415 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/ui.py', reloading
+2026-04-10 14:29:19,516 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:29:19,909 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:29:19,911 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:29:39,362 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.3:5000
+2026-04-10 14:29:39,362 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-10 14:29:39,363 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:29:39,726 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:29:39,728 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:29:41,912 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:29:41,944 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "GET /fileui/config/filemanager.init.js HTTP/1.1" 200 -
+2026-04-10 14:29:41,945 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/src/js/libs-main.js HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,946 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/src/css/filemanager.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,946 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/src/css/libs-main.css HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,948 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/src/js/filemanager.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,949 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/spinner.gif HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,960 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/nav/grey/level-up.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,961 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/nav/grey/home.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,962 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/nav/grey/refresh.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,963 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/application_view_icons.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,966 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/application_view_list.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,970 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/filter/grey/file-image.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,975 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/filter/grey/file-media.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,977 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/filter/grey/file-office.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,979 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/filter/grey/file-all.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,979 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/filter/grey/file-archive.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,980 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/reset_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,981 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/clipboard/clipboard_copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,981 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/clipboard/clipboard_clear.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,992 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/clipboard/clipboard_paste.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,996 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/upload.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,997 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/clipboard/clipboard_cut.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,997 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/folder_add.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:41,998 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:41] "[36mGET /fileui/images/fileicons/icon_folder_parent.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,000 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/images/parentfolder.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,002 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/images/accept.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,014 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "GET /fileui/config/filemanager.config.default.json?_=1775856581979 HTTP/1.1" 200 -
+2026-04-10 14:29:42,015 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/images/download.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,016 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "GET /fileui/config/filemanager.config.json?_=1775856581980 HTTP/1.1" 200 -
+2026-04-10 14:29:42,017 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/images/tag.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,019 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/images/move.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,020 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/images/bin_closed.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,027 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/images/edit_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,027 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/images/save_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,029 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:29:42,030 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/images/copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,032 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/images/edit.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,033 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/images/save.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,034 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/images/reset.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,040 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/images/search_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,041 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/images/fmlogo.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,044 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "GET /fileui/languages/en.json?_=1775856582034 HTTP/1.1" 200 -
+2026-04-10 14:29:42,045 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/images/summary.png HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,051 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/libs/cldrjs/cldr-numbers/en/numbers.json HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,052 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/libs/cldrjs/cldr-dates/en/ca-gregorian.json HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,056 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/likelySubtags.json HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,057 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/timeData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,060 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/weekData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:29:42,098 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:29:42] "[31m[1mGET /filemanager/?time=1775856582096&mode=initiate&session_id=&_=1775856581981 HTTP/1.1[0m" 400 -
+2026-04-10 14:31:18,017 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.3:5000
+2026-04-10 14:31:18,017 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-10 14:31:18,017 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:31:18,387 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:31:18,389 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:31:24,655 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.3:5000
+2026-04-10 14:31:24,655 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-10 14:31:24,655 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:31:25,025 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:31:25,027 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:31:31,474 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:31:31,506 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/src/css/libs-main.css HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,507 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "GET /fileui/config/filemanager.init.js HTTP/1.1" 200 -
+2026-04-10 14:31:31,508 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/src/css/filemanager.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,510 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/src/js/libs-main.js HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,511 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/src/js/filemanager.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,512 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/spinner.gif HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,523 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/nav/grey/level-up.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,525 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/nav/grey/home.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,526 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/nav/grey/refresh.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,530 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/application_view_icons.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,531 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/application_view_list.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,532 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/filter/grey/file-image.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,534 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/filter/grey/file-office.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,535 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/filter/grey/file-media.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,536 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/filter/grey/file-archive.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,546 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/filter/grey/file-all.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,546 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/clipboard/clipboard_cut.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,547 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/clipboard/clipboard_paste.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,547 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/reset_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,547 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/clipboard/clipboard_clear.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,549 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/upload.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,561 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/folder_add.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,563 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/clipboard/clipboard_copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,564 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/fileicons/icon_folder_parent.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,565 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/parentfolder.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,567 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/accept.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,569 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/download.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,578 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/move.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,579 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "GET /fileui/config/filemanager.config.json?_=1775856691550 HTTP/1.1" 200 -
+2026-04-10 14:31:31,580 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/tag.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,582 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "GET /fileui/config/filemanager.config.default.json?_=1775856691549 HTTP/1.1" 200 -
+2026-04-10 14:31:31,583 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/bin_closed.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,584 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/edit_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,591 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,592 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/reset.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,593 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/edit.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,593 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/save_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,594 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/save.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,597 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:31:31,599 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/search_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,607 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/summary.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,608 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/images/fmlogo.png HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,608 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "GET /fileui/languages/en.json?_=1775856691606 HTTP/1.1" 200 -
+2026-04-10 14:31:31,659 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/libs/cldrjs/cldr-dates/en/ca-gregorian.json HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,660 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/libs/cldrjs/cldr-numbers/en/numbers.json HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,661 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/timeData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,662 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/weekData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,663 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/likelySubtags.json HTTP/1.1[0m" 304 -
+2026-04-10 14:31:31,672 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:31:31] "[31m[1mGET /filemanager/?time=1775856691669&mode=initiate&session_id=&_=1775856691551 HTTP/1.1[0m" 400 -
+2026-04-10 14:31:57,195 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/ui.py', reloading
+2026-04-10 14:31:57,295 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:31:57,716 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:31:57,718 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:32:14,816 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/ui.py', reloading
+2026-04-10 14:32:14,925 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:32:15,334 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:32:15,336 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:32:21,379 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/filemanager.py', reloading
+2026-04-10 14:32:21,476 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:32:21,876 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:32:21,879 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:32:32,057 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.3:5000
+2026-04-10 14:32:32,057 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-10 14:32:32,058 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:32:32,448 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:32:32,450 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:32:36,847 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:32:36,875 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "GET /fileui/config/filemanager.init.js HTTP/1.1" 200 -
+2026-04-10 14:32:36,876 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/src/css/libs-main.css HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,877 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/src/css/filemanager.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,878 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/src/js/libs-main.js HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,880 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/src/js/filemanager.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,883 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/spinner.gif HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,896 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/nav/grey/level-up.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,898 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/nav/grey/home.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,898 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/nav/grey/refresh.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,900 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/application_view_icons.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,903 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/application_view_list.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,903 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/filter/grey/file-image.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,910 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/clipboard/clipboard_copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,912 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/filter/grey/file-media.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,912 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/filter/grey/file-all.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,914 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/filter/grey/file-office.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,915 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/filter/grey/file-archive.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,915 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/clipboard/clipboard_cut.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,926 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/clipboard/clipboard_paste.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,927 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/clipboard/clipboard_clear.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,927 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/reset_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,928 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/fileicons/icon_folder_parent.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,928 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/upload.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,928 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/folder_add.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,937 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "GET /fileui/config/filemanager.config.default.json?_=1775856756918 HTTP/1.1" 200 -
+2026-04-10 14:32:36,939 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "GET /fileui/config/filemanager.config.json?_=1775856756919 HTTP/1.1" 200 -
+2026-04-10 14:32:36,942 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/parentfolder.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,943 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/accept.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,944 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/download.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,946 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/move.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,946 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/tag.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,948 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/bin_closed.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,955 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:32:36,956 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/edit_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,957 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,958 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/save_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,958 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/edit.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,960 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/save.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,966 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "GET /fileui/languages/en.json?_=1775856756963 HTTP/1.1" 200 -
+2026-04-10 14:32:36,967 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/reset.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,969 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/search_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,970 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/summary.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,971 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/images/fmlogo.png HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,979 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/libs/cldrjs/cldr-dates/en/ca-gregorian.json HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,979 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/timeData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,980 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/likelySubtags.json HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,980 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/libs/cldrjs/cldr-numbers/en/numbers.json HTTP/1.1[0m" 304 -
+2026-04-10 14:32:36,980 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:36] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/weekData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:32:37,021 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:32:37] "[31m[1mGET /filemanager/?time=1775856757019&mode=initiate&session_id=&_=1775856756920 HTTP/1.1[0m" 400 -
+2026-04-10 14:32:54,567 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/ui.py', reloading
+2026-04-10 14:32:54,690 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:32:55,089 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:32:55,091 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:33:28,268 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/ui.py', reloading
+2026-04-10 14:33:28,378 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:33:28,765 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:33:28,767 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:33:34,812 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/ui.py', reloading
+2026-04-10 14:33:34,901 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:33:35,320 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:33:35,323 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:33:46,822 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.3:5000
+2026-04-10 14:33:46,822 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-10 14:33:46,822 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:33:47,192 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:33:47,195 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:33:49,188 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:33:49,217 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/src/css/libs-main.css HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,218 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/config/filemanager.init.js HTTP/1.1" 200 -
+2026-04-10 14:33:49,220 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/src/css/filemanager.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,222 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/src/js/libs-main.js HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,223 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/src/js/filemanager.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,225 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/spinner.gif HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,242 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/nav/grey/level-up.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,244 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/nav/grey/home.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,246 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/nav/grey/refresh.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,248 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/application_view_list.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,248 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/application_view_icons.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,254 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/filter/grey/file-image.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,257 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/filter/grey/file-all.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,261 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/filter/grey/file-archive.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,262 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/clipboard/clipboard_copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,263 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/filter/grey/file-media.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,263 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/filter/grey/file-office.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,263 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/reset_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,274 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/clipboard/clipboard_cut.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,274 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/folder_add.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,275 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/upload.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,278 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/clipboard/clipboard_paste.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,280 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/clipboard/clipboard_clear.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,281 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/fileicons/icon_folder_parent.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,281 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/parentfolder.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,288 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/config/filemanager.config.default.json?_=1775856829265 HTTP/1.1" 200 -
+2026-04-10 14:33:49,291 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/accept.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,292 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/config/filemanager.config.json?_=1775856829266 HTTP/1.1" 200 -
+2026-04-10 14:33:49,296 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/tag.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,298 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/download.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,299 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/move.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,300 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/bin_closed.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,301 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/edit_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,303 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,304 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/save_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,312 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:33:49,315 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/edit.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,316 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/save.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,317 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/search_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,319 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/summary.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,320 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/reset.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,320 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/images/fmlogo.png HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,320 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/languages/en.json?_=1775856829315 HTTP/1.1" 200 -
+2026-04-10 14:33:49,366 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/libs/cldrjs/cldr-numbers/en/numbers.json HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,367 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/libs/cldrjs/cldr-dates/en/ca-gregorian.json HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,367 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/timeData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,368 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/likelySubtags.json HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,368 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/weekData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:33:49,397 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /filemanager/?time=1775856829377&mode=initiate&session_id=&_=1775856829267 HTTP/1.1" 200 -
+2026-04-10 14:33:49,401 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/src/templates/upload-container.html HTTP/1.1" 200 -
+2026-04-10 14:33:49,402 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/src/templates/upload-item.html HTTP/1.1" 200 -
+2026-04-10 14:33:49,413 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/themes/flat-dark/styles/theme.css HTTP/1.1" 200 -
+2026-04-10 14:33:49,413 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/libs/lazyload/dist/lazyload.min.js HTTP/1.1" 200 -
+2026-04-10 14:33:49,419 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/libs/custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js HTTP/1.1" 200 -
+2026-04-10 14:33:49,419 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/libs/CodeMirror/lib/codemirror.css HTTP/1.1" 200 -
+2026-04-10 14:33:49,421 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/libs/custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css HTTP/1.1" 200 -
+2026-04-10 14:33:49,422 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/src/css/fm-markdown.css HTTP/1.1" 200 -
+2026-04-10 14:33:49,422 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/libs/CodeMirror/addon/display/fullscreen.css HTTP/1.1" 200 -
+2026-04-10 14:33:49,423 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/libs/markdown-it/default.min.css HTTP/1.1" 200 -
+2026-04-10 14:33:49,433 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/libs/jQuery-File-Upload/css/dropzone.css HTTP/1.1" 200 -
+2026-04-10 14:33:49,435 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/libs/CodeMirror/addon/selection/active-line.js HTTP/1.1" 200 -
+2026-04-10 14:33:49,435 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/libs/CodeMirror/addon/display/fullscreen.js HTTP/1.1" 200 -
+2026-04-10 14:33:49,435 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/libs/CodeMirror/lib/codemirror.js HTTP/1.1" 200 -
+2026-04-10 14:33:49,436 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/libs/markdown-it/markdown-it.min.js HTTP/1.1" 200 -
+2026-04-10 14:33:49,437 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/libs/markdown-it/highlight.min.js HTTP/1.1" 200 -
+2026-04-10 14:33:49,447 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/libs/markdown-it/markdown-it-replace-link.min.js HTTP/1.1" 200 -
+2026-04-10 14:33:49,448 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/libs/markdown-it/markdown-it-footnote.min.js HTTP/1.1" 200 -
+2026-04-10 14:33:49,449 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/src/js/libs-fileupload.js HTTP/1.1" 200 -
+2026-04-10 14:33:49,733 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/themes/flat-dark/images/fmlogo.png HTTP/1.1" 200 -
+2026-04-10 14:33:49,733 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:33:49] "GET /fileui/themes/flat-dark/images/summary.png HTTP/1.1" 200 -
+2026-04-10 14:34:00,979 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:34:00] "[36mGET /fileui/src/css/libs-main.css HTTP/1.1[0m" 304 -
+2026-04-10 14:34:00,981 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:34:00] "[36mGET /fileui/src/css/filemanager.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:34:00,982 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:34:00] "[36mGET /fileui/themes/flat-dark/styles/theme.css HTTP/1.1[0m" 304 -
+2026-04-10 14:34:00,983 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:34:00] "[36mGET /fileui/libs/custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:34:00,983 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:34:00] "[36mGET /fileui/libs/CodeMirror/lib/codemirror.css HTTP/1.1[0m" 304 -
+2026-04-10 14:34:00,984 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:34:00] "[36mGET /fileui/libs/CodeMirror/addon/display/fullscreen.css HTTP/1.1[0m" 304 -
+2026-04-10 14:34:00,986 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:34:00] "[36mGET /fileui/src/css/fm-markdown.css HTTP/1.1[0m" 304 -
+2026-04-10 14:34:00,993 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:34:00] "[36mGET /fileui/libs/jQuery-File-Upload/css/dropzone.css HTTP/1.1[0m" 304 -
+2026-04-10 14:34:00,994 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:34:00] "[36mGET /fileui/libs/markdown-it/default.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:34:01,000 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:34:01] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-04-10 14:35:09,628 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/filemanager.py', reloading
+2026-04-10 14:35:09,736 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:35:10,166 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:35:10,168 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:35:17,705 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:17] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:35:17,731 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:17] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-04-10 14:35:17,739 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:17] "GET /fileui/config/filemanager.init.js HTTP/1.1" 200 -
+2026-04-10 14:35:17,740 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:17] "[36mGET /fileui/src/css/libs-main.css HTTP/1.1[0m" 304 -
+2026-04-10 14:35:17,741 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:17] "[36mGET /fileui/src/css/filemanager.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:35:17,742 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:17] "[36mGET /fileui/src/js/libs-main.js HTTP/1.1[0m" 304 -
+2026-04-10 14:35:17,743 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:17] "[36mGET /fileui/src/js/filemanager.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:35:17,753 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:17] "[36mGET /fileui/images/spinner.gif HTTP/1.1[0m" 304 -
+2026-04-10 14:35:17,862 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:17] "GET /fileui/config/filemanager.config.default.json?_=1775856917845 HTTP/1.1" 200 -
+2026-04-10 14:35:17,862 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:17] "GET /fileui/config/filemanager.config.json?_=1775856917846 HTTP/1.1" 200 -
+2026-04-10 14:35:18,039 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:35:18,053 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/languages/en.json?_=1775856918051 HTTP/1.1" 200 -
+2026-04-10 14:35:18,060 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/cldrjs/cldr-dates/en/ca-gregorian.json HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,061 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/cldrjs/cldr-numbers/en/numbers.json HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,061 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/likelySubtags.json HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,063 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/timeData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,064 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/weekData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,082 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /filemanager/?time=1775856918071&mode=initiate&session_id=&_=1775856917847 HTTP/1.1" 200 -
+2026-04-10 14:35:18,090 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/src/templates/upload-container.html HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,090 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/src/templates/upload-item.html HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,099 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/themes/flat-dark/styles/theme.css HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,102 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,106 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/lazyload/dist/lazyload.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,106 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,108 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/CodeMirror/lib/codemirror.css HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,110 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/CodeMirror/lib/codemirror.js HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,119 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/CodeMirror/addon/display/fullscreen.css HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,120 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/CodeMirror/addon/selection/active-line.js HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,122 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/src/css/fm-markdown.css HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,124 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/markdown-it/default.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,124 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/CodeMirror/addon/display/fullscreen.js HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,124 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/jQuery-File-Upload/css/dropzone.css HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,128 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/markdown-it/markdown-it.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,131 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/markdown-it/markdown-it-footnote.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,131 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/markdown-it/highlight.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,133 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/libs/markdown-it/markdown-it-replace-link.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,136 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/src/js/libs-fileupload.js HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,141 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/themes/flat-dark/images/summary.png HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,142 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/themes/flat-dark/images/fmlogo.png HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,226 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/vgrabber.gif HTTP/1.1" 200 -
+2026-04-10 14:35:18,231 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/libs/custom-scrollbar-plugin/mCSB_buttons.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,245 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /filemanager/?time=1775856918225&mode=readfolder&path=/&session_id=&_=1775856917848 HTTP/1.1" 200 -
+2026-04-10 14:35:18,261 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/filetree/preset.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,266 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/filetree/line_conn.gif HTTP/1.1" 200 -
+2026-04-10 14:35:18,266 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/filetree/ico_file.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,301 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/filetree/ico_film.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,318 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/filetree/ico_txt.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,329 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/filetree/ico_pdf.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,332 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/filetree/ico_application.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,355 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/filetree/ico_script.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,359 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/filetree/ico_zip.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,365 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/filetree/ico_folder.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,596 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "[36mGET /fileui/images/nav/grey/home.png HTTP/1.1[0m" 304 -
+2026-04-10 14:35:18,935 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/fileicons/icon_zip.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,936 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/fileicons/icon_movie.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,936 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/fileicons/icon_txt.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,937 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/fileicons/icon_file.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,937 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/fileicons/icon_pdf.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,938 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/fileicons/icon_py.png HTTP/1.1" 200 -
+2026-04-10 14:35:18,945 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:18] "GET /fileui/images/fileicons/icon_folder.png HTTP/1.1" 200 -
+2026-04-10 14:35:48,842 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:35:48] "[31m[1mGET /filemanager/?time=1775856948827&mode=delete&path=2026-02-06+17-35-51.mp4&session_id=&_=1775856917849 HTTP/1.1[0m" 400 -
+2026-04-10 14:36:02,204 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:36:02] "GET /filemanager/?mode=download&path=.claude.json&session_id=&time=1775856962194 HTTP/1.1" 200 -
+2026-04-10 14:36:18,745 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:36:18] "[31m[1mGET /filemanager/?time=1775856978740&mode=delete&path=tp-link_tl-wn322g_090303_vista.zip&session_id=&_=1775856917850 HTTP/1.1[0m" 400 -
+2026-04-10 14:36:54,455 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:36:54] "GET /filemanager/?time=1775857014449&mode=readfolder&path=.android&session_id=&_=1775856917851 HTTP/1.1" 200 -
+2026-04-10 14:36:58,831 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:36:58] "GET /filemanager/?time=1775857018809&mode=readfolder&path=/&session_id=&_=1775856917852 HTTP/1.1" 200 -
+2026-04-10 14:37:04,010 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:37:04] "GET /filemanager/?time=1775857024002&mode=readfolder&path=Applications&session_id=&_=1775856917853 HTTP/1.1" 200 -
+2026-04-10 14:37:04,301 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:37:04] "GET /filemanager/?path=Applications/tt.png&mode=getimage&thumbnail=true&session_id=&time=1775857024069 HTTP/1.1" 200 -
+2026-04-10 14:37:04,313 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:37:04] "[31m[1mGET /filemanager/?path=Applications/bbibbhst.png&mode=getimage&thumbnail=true&session_id=&time=1775857024055 HTTP/1.1[0m" 400 -
+2026-04-10 14:37:15,362 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:37:15] "[31m[1mGET /filemanager/?time=1775857035357&mode=addfolder&path=Applications&name=testrich&session_id=&_=1775856917854 HTTP/1.1[0m" 400 -
+2026-04-10 14:37:18,251 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:37:18] "[31m[1mGET /filemanager/?time=1775857038246&mode=addfolder&path=Applications&name=testrich&session_id=&_=1775856917855 HTTP/1.1[0m" 400 -
+2026-04-10 14:37:18,669 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:37:18] "[31m[1mGET /filemanager/?time=1775857038664&mode=addfolder&path=Applications&name=testrich&session_id=&_=1775856917856 HTTP/1.1[0m" 400 -
+2026-04-10 14:37:19,309 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:37:19] "[31m[1mGET /filemanager/?time=1775857039303&mode=addfolder&path=Applications&name=testrich&session_id=&_=1775856917857 HTTP/1.1[0m" 400 -
+2026-04-10 14:37:34,923 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/ui.py', reloading
+2026-04-10 14:37:35,027 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:37:35,419 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:37:35,421 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:37:56,543 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/ui.py', reloading
+2026-04-10 14:37:56,642 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:37:57,063 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:37:57,065 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:38:23,206 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/filemanager.py', reloading
+2026-04-10 14:38:23,296 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:38:23,697 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:38:23,700 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:39:03,916 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/filemanager.py', reloading
+2026-04-10 14:39:04,003 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:39:04,434 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:39:04,436 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:39:11,485 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/filemanager.py', reloading
+2026-04-10 14:39:11,614 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:39:12,038 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:39:12,041 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:39:43,209 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/filemanager.py', reloading
+2026-04-10 14:39:43,303 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:39:43,704 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:39:43,706 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:39:50,754 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/filemanager.py', reloading
+2026-04-10 14:39:50,866 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:39:51,291 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:39:51,294 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:40:01,355 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/filemanager.py', reloading
+2026-04-10 14:40:01,453 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:40:01,855 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:40:01,857 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:40:08,903 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/filemanager.py', reloading
+2026-04-10 14:40:09,000 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:40:09,417 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:40:09,419 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:40:14,458 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/filemanager.py', reloading
+2026-04-10 14:40:14,551 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:40:14,964 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:40:14,966 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:40:21,011 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/filemanager.py', reloading
+2026-04-10 14:40:21,125 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:40:21,526 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:40:21,528 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:40:26,565 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/filemanager.py', reloading
+2026-04-10 14:40:26,730 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:40:27,159 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:40:27,161 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:40:58,333 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/filemanager.py', reloading
+2026-04-10 14:40:58,426 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:40:58,831 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:40:58,833 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:42:11,237 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:42:11,266 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "GET /fileui/config/filemanager.init.js HTTP/1.1" 200 -
+2026-04-10 14:42:11,267 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/src/css/libs-main.css HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,267 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/src/js/libs-main.js HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,267 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/src/css/filemanager.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,268 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/src/js/filemanager.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,275 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/spinner.gif HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,299 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/nav/grey/level-up.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,301 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/nav/grey/refresh.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,302 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/nav/grey/home.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,302 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/application_view_icons.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,304 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/application_view_list.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,306 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/filter/grey/file-image.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,314 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/clipboard/clipboard_copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,314 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/filter/grey/file-all.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,315 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/reset_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,315 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/upload.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,315 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/clipboard/clipboard_clear.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,316 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/clipboard/clipboard_paste.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,328 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/clipboard/clipboard_cut.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,329 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/filter/grey/file-office.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,330 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/filter/grey/file-media.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,330 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/folder_add.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,335 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/parentfolder.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,341 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/fileicons/icon_folder_parent.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,343 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/accept.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,344 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/download.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,344 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/filter/grey/file-archive.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,352 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "GET /fileui/config/filemanager.config.json?_=1775857331319 HTTP/1.1" 200 -
+2026-04-10 14:42:11,353 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "GET /fileui/config/filemanager.config.default.json?_=1775857331318 HTTP/1.1" 200 -
+2026-04-10 14:42:11,353 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/tag.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,355 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/move.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,357 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/bin_closed.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,358 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/edit_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,364 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,365 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/save_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,367 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/save.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,367 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/edit.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,370 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/search_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,370 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/reset.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,375 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/summary.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,378 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:42:11,379 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/fmlogo.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,385 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "GET /fileui/languages/en.json?_=1775857331383 HTTP/1.1" 200 -
+2026-04-10 14:42:11,534 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/cldrjs/cldr-numbers/en/numbers.json HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,535 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/cldrjs/cldr-dates/en/ca-gregorian.json HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,536 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/likelySubtags.json HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,537 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/timeData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,538 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/weekData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,556 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "GET /filemanager/?time=1775857331544&mode=initiate&session_id=05d73796-1b58-478c-945a-25874e3e4684&_=1775857331320 HTTP/1.1" 200 -
+2026-04-10 14:42:11,561 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/src/templates/upload-container.html HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,561 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/src/templates/upload-item.html HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,568 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/themes/flat-dark/styles/theme.css HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,571 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,572 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/lazyload/dist/lazyload.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,574 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/CodeMirror/lib/codemirror.css HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,575 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/CodeMirror/addon/display/fullscreen.css HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,582 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/markdown-it/default.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,583 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/src/css/fm-markdown.css HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,583 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,583 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/CodeMirror/lib/codemirror.js HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,584 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/jQuery-File-Upload/css/dropzone.css HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,585 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/CodeMirror/addon/selection/active-line.js HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,596 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/CodeMirror/addon/display/fullscreen.js HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,596 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/markdown-it/highlight.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,597 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/markdown-it/markdown-it.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,598 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/markdown-it/markdown-it-footnote.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,599 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/src/js/libs-fileupload.js HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,600 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/markdown-it/markdown-it-replace-link.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,608 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/themes/flat-dark/images/fmlogo.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,608 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/themes/flat-dark/images/summary.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,687 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/vgrabber.gif HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,691 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/libs/custom-scrollbar-plugin/mCSB_buttons.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,700 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "GET /filemanager/?time=1775857331686&mode=readfolder&path=/&session_id=05d73796-1b58-478c-945a-25874e3e4684&_=1775857331321 HTTP/1.1" 200 -
+2026-04-10 14:42:11,718 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/filetree/preset.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,723 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/filetree/ico_file.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,724 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/filetree/line_conn.gif HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,765 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/filetree/ico_film.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,783 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/filetree/ico_txt.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,800 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/filetree/ico_pdf.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,801 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/filetree/ico_application.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,828 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/filetree/ico_script.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,831 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/filetree/ico_zip.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:11,836 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:11] "[36mGET /fileui/images/filetree/ico_folder.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:12,351 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:12] "[36mGET /fileui/images/fileicons/icon_file.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:12,352 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:12] "[36mGET /fileui/images/fileicons/icon_movie.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:12,353 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:12] "[36mGET /fileui/images/fileicons/icon_txt.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:12,354 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:12] "[36mGET /fileui/images/fileicons/icon_pdf.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:12,357 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:12] "[36mGET /fileui/images/fileicons/icon_py.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:12,358 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:12] "[36mGET /fileui/images/fileicons/icon_zip.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:12,360 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:12] "[36mGET /fileui/images/fileicons/icon_folder.png HTTP/1.1[0m" 304 -
+2026-04-10 14:42:20,501 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:20] "GET /filemanager/?time=1775857340495&mode=addfolder&path=/&name=Testrich&session_id=05d73796-1b58-478c-945a-25874e3e4684&_=1775857331322 HTTP/1.1" 200 -
+2026-04-10 14:42:38,083 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:42:38] "GET /filemanager/?time=1775857358078&mode=readfolder&path=/Testrich&session_id=05d73796-1b58-478c-945a-25874e3e4684&_=1775857331323 HTTP/1.1" 200 -
+2026-04-10 14:43:05,777 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:43:05] "GET /filemanager/?time=1775857385772&mode=readfolder&path=/Testrich&session_id=05d73796-1b58-478c-945a-25874e3e4684&_=1775857331324 HTTP/1.1" 200 -
+2026-04-10 14:43:08,680 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:43:08] "GET /filemanager/?time=1775857388665&mode=readfolder&path=/Testrich&session_id=05d73796-1b58-478c-945a-25874e3e4684&_=1775857331325 HTTP/1.1" 200 -
+2026-04-10 14:43:13,031 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:43:13] "GET /filemanager/?time=1775857393025&mode=addfolder&path=/Testrich&name=hi&session_id=05d73796-1b58-478c-945a-25874e3e4684&_=1775857331326 HTTP/1.1" 200 -
+2026-04-10 14:43:30,342 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:43:30] "GET /filemanager/?time=1775857410338&mode=readfolder&path=/hi&session_id=05d73796-1b58-478c-945a-25874e3e4684&_=1775857331327 HTTP/1.1" 200 -
+2026-04-10 14:43:43,109 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:43:43] "GET /filemanager/?time=1775857423103&mode=readfolder&path=/hi&session_id=05d73796-1b58-478c-945a-25874e3e4684&_=1775857331328 HTTP/1.1" 200 -
+2026-04-10 14:43:52,776 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:43:52] "[36mGET /fileui/src/css/libs-main.css HTTP/1.1[0m" 304 -
+2026-04-10 14:43:52,777 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:43:52] "[36mGET /fileui/src/css/filemanager.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:43:52,779 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:43:52] "[36mGET /fileui/themes/flat-dark/styles/theme.css HTTP/1.1[0m" 304 -
+2026-04-10 14:43:52,782 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:43:52] "[36mGET /fileui/libs/CodeMirror/lib/codemirror.css HTTP/1.1[0m" 304 -
+2026-04-10 14:43:52,782 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:43:52] "[36mGET /fileui/libs/custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:43:52,783 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:43:52] "[36mGET /fileui/src/css/fm-markdown.css HTTP/1.1[0m" 304 -
+2026-04-10 14:43:52,785 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:43:52] "[36mGET /fileui/libs/jQuery-File-Upload/css/dropzone.css HTTP/1.1[0m" 304 -
+2026-04-10 14:43:52,785 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:43:52] "[36mGET /fileui/libs/markdown-it/default.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:43:52,786 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:43:52] "[36mGET /fileui/libs/CodeMirror/addon/display/fullscreen.css HTTP/1.1[0m" 304 -
+2026-04-10 14:43:52,812 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:43:52] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-04-10 14:45:09,073 - werkzeug - INFO -  * Detected change in '/home/johnny/Applications/richfm/src/richfm/blueprint/filemanager.py', reloading
+2026-04-10 14:45:09,174 - werkzeug - INFO -  * Restarting with stat
+2026-04-10 14:45:09,580 - werkzeug - WARNING -  * Debugger is active!
+2026-04-10 14:45:09,582 - werkzeug - INFO -  * Debugger PIN: 950-087-261
+2026-04-10 14:45:27,408 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:45:27,439 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/src/css/libs-main.css HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,439 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "GET /fileui/config/filemanager.init.js HTTP/1.1" 200 -
+2026-04-10 14:45:27,440 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/src/css/filemanager.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,442 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/src/js/libs-main.js HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,444 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-04-10 14:45:27,444 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/src/js/filemanager.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,462 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/spinner.gif HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,463 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/nav/grey/home.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,463 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/nav/grey/level-up.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,466 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/nav/grey/refresh.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,467 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/application_view_list.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,467 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/application_view_icons.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,477 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/filter/grey/file-image.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,479 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/filter/grey/file-media.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,482 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/filter/grey/file-office.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,483 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/filter/grey/file-all.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,484 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/clipboard/clipboard_copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,486 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/reset_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,487 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/clipboard/clipboard_paste.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,488 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/clipboard/clipboard_clear.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,490 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/clipboard/clipboard_cut.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,491 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/upload.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,492 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/folder_add.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,499 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/filter/grey/file-archive.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,501 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/fileicons/icon_folder_parent.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,503 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/parentfolder.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,504 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/accept.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,506 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/download.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,507 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/tag.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,517 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/move.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,519 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/bin_closed.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,519 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/edit_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,520 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/save_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,555 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/copy.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,556 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/edit.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,557 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/save.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,559 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/reset.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,560 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/search_dark.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,561 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/summary.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,562 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/fmlogo.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,604 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "GET /fileui/config/filemanager.config.json?_=1775857527582 HTTP/1.1" 200 -
+2026-04-10 14:45:27,604 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "GET /fileui/config/filemanager.config.default.json?_=1775857527581 HTTP/1.1" 200 -
+2026-04-10 14:45:27,784 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "GET /fileui/?session_id=05d73796-1b58-478c-945a-25874e3e4684 HTTP/1.1" 200 -
+2026-04-10 14:45:27,793 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "GET /fileui/languages/en.json?_=1775857527788 HTTP/1.1" 200 -
+2026-04-10 14:45:27,801 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/cldrjs/cldr-dates/en/ca-gregorian.json HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,804 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/cldrjs/cldr-numbers/en/numbers.json HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,806 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/weekData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,806 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/likelySubtags.json HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,806 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/cldrjs/cldr-core/supplemental/timeData.json HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,839 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "GET /filemanager/?time=1775857527816&mode=initiate&session_id=05d73796-1b58-478c-945a-25874e3e4684&_=1775857527583 HTTP/1.1" 200 -
+2026-04-10 14:45:27,845 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/src/templates/upload-container.html HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,849 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/src/templates/upload-item.html HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,857 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/themes/flat-dark/styles/theme.css HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,858 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/lazyload/dist/lazyload.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,862 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/CodeMirror/lib/codemirror.css HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,863 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,871 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,872 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/CodeMirror/lib/codemirror.js HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,875 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/CodeMirror/addon/display/fullscreen.css HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,875 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/src/css/fm-markdown.css HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,877 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/markdown-it/default.min.css HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,879 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/jQuery-File-Upload/css/dropzone.css HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,880 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/CodeMirror/addon/selection/active-line.js HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,890 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/CodeMirror/addon/display/fullscreen.js HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,893 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/markdown-it/markdown-it-footnote.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,894 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/markdown-it/markdown-it.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,896 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/markdown-it/highlight.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,898 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/markdown-it/markdown-it-replace-link.min.js HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,905 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/src/js/libs-fileupload.js HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,907 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/themes/flat-dark/images/fmlogo.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,909 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/themes/flat-dark/images/summary.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,981 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/images/vgrabber.gif HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,985 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "[36mGET /fileui/libs/custom-scrollbar-plugin/mCSB_buttons.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:27,997 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:27] "GET /filemanager/?time=1775857527979&mode=readfolder&path=/&session_id=05d73796-1b58-478c-945a-25874e3e4684&_=1775857527584 HTTP/1.1" 200 -
+2026-04-10 14:45:28,014 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/filetree/preset.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,021 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/filetree/ico_file.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,021 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/filetree/line_conn.gif HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,054 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/filetree/ico_film.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,071 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/filetree/ico_txt.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,084 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/filetree/ico_pdf.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,085 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/filetree/ico_application.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,112 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/filetree/ico_script.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,116 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/filetree/ico_zip.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,123 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/filetree/ico_folder.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,694 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/fileicons/icon_file.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,695 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/fileicons/icon_movie.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,696 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/fileicons/icon_txt.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,697 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/fileicons/icon_pdf.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,699 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/fileicons/icon_zip.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,700 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/fileicons/icon_py.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:28,703 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:28] "[36mGET /fileui/images/fileicons/icon_folder.png HTTP/1.1[0m" 304 -
+2026-04-10 14:45:30,477 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2026 14:45:30] "GET /fileui/images/info.png HTTP/1.1" 200 -
