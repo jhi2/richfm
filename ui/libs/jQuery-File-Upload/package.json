@@ -44,7 +44,7 @@
   "main": "js/jquery.fileupload.js",
   "devDependencies": {
     "bower-json": "0.6.0",
-    "grunt": "0.4.5",
+    "grunt": "1.5.3",
     "grunt-bump-build-git": "1.1.2",
     "grunt-contrib-jshint": "0.11.2"
   }
